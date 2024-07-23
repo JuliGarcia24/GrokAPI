@@ -1,0 +1,29 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+grokapi-env/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de caché
+*.log
+*.tmp
+
+# Archivos de base de datos
+*.sqlite3
+*.db
+
+# Otros archivos específicos
+*.DS_Store
+*.coverage
+*.egg-info/
